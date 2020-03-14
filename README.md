@@ -97,10 +97,10 @@ Project Manager (Minju)
  - Responsible for scoping cost, effort and timelines to deliver the technical solutions 
  - Builds the deliverables and communicates the status of the software components to the Technical Lead and Project Manager
 
-
+<a name = "JiraAccess"/>
 <h2><a name = "Title3"> 3. Traceability of Progress</a></h2>
 
-<a name = "JiraAccess"/>
+
 <a href = "https://comp3500.atlassian.net/jira/software/projects/MEGT/boards/1/roadmap"><b> Jira Project Management Platform </b></a><br/>
 
 
